@@ -13,10 +13,12 @@
 - 📫 How to reach me **786muhammadnaveed@gmail.com**
 - ⚡ Fun fact **Javascript makes me excited.**
 
-## 🌐 Socials
+## 🌐 Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="left">
    <a href="https://www.linkedin.com/in/muhammad-naveed-b687a111b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-naveed-b687a111b/" height="30" width="40" /></a>
+	<a href="mailto:786muhammadnaveed@gmail.com"><img width="32px" align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png"/></a>
 </p>
+
 
 ## 💻 Languages and Tools:
 <p align="left">
@@ -70,5 +72,8 @@
 	<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mnaveed011&show_icons=true&theme=vue" />
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mnaveed011&show_icons=true&theme=vue" />
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mnaveed011&theme=vue" />
+	 <a href="https://github.com/mnaveed011">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
 	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zainulhasan" alt="zainulhasan" /></a>
 </p>
