@@ -53,10 +53,6 @@
 <p align="center">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mnaveed011&show_icons=true&theme=vue" />
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mnaveed011&show_icons=true&theme=vue" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mnaveed011&theme=vue" />
-	 <a href="https://github.com/mnaveed011">
-  			<img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
 </p>
 
 ### ✍️Random Dev Quote
